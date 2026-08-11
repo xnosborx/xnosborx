@@ -1,16 +1,46 @@
-## Hi there 👋
+# Olá! Eu sou Danilo Araujo 👋
 
-<!--
-**xnosborx/xnosborx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tecnologia da Informação
 
-Here are some ideas to get you started:
+Sou formado em **Gestão da Tecnologia da Informação** e estou desenvolvendo meus conhecimentos na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Atualmente estudando
+
+- 🐍 Python
+- 💻 Programação
+- 🔧 Automação com Python
+- 🗄️ Banco de Dados
+- 🖥️ Suporte Técnico e Help Desk
+- 🌐 Redes e Infraestrutura de TI
+
+### 🛠️ Tecnologias e conhecimentos
+
+- Python
+- C
+- Windows
+- Linux
+- SQL
+- Git e GitHub
+- Hardware e Software
+- Redes de Computadores
+- Segurança da Informação
+
+### 📚 Objetivo
+
+Busco uma oportunidade na área de **Tecnologia da Informação**, principalmente em:
+
+- Suporte Técnico
+- Help Desk
+- Técnico de TI
+- Infraestrutura
+- Desenvolvimento Python
+
+### 📂 Projetos
+
+Estou criando projetos práticos para desenvolver minhas habilidades em programação e montar meu portfólio.
+
+---
+
+📍 São Paulo - SP
+
+🔗 LinkedIn: linkedin.com/in/danilo-araujo-324394210/
